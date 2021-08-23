@@ -1,10 +1,9 @@
-# Hi there 👋 Welcome to my GitHub! I'm Lorenzo Calzi
+## Hi there 👋 Welcome to my GitHub! I'm Lorenzo Calzi
 
-## Junior Full-Stack Developer
+### Junior Full-Stack Developer
 
 ```javascript
 const Lorenzo = {
-    pronouns: "he" | "him",
     code: [ HTML, CSS, SCSS, Javascript, PHP],
     askMeAbout: [ "web dev", "tech", "apple", "crypto", "NBA", "music", "coffee" ],
     technologies: {
