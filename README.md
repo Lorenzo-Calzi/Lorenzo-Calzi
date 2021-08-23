@@ -2,7 +2,7 @@
 
 ### Junior Full-Stack Developer
 
-### aboutMe.js
+#### aboutMe.js
 ```javascript
 const Lorenzo = {
     code: [ HTML, CSS, SCSS, Javascript, PHP],
