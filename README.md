@@ -2,6 +2,7 @@
 
 ## Junior Full-Stack Developer
 
+```javascript
 const Lorenzo = {
     pronouns: "he" | "him",
     code: [ HTML, CSS, SCSS, Javascript, PHP],
@@ -17,3 +18,4 @@ const Lorenzo = {
         }        
     }
 };
+```
