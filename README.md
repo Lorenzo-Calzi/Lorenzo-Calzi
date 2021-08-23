@@ -21,7 +21,8 @@ const Lorenzo = {
 ```
 
 ### 📖 I'm currently learning / improving on:
-(https://img.shields.io/badge/HTML5-E34F26)
+![Alt Text](https://img.shields.io/badge/HTML5-E34F26)
+
 <p>
     
     
