@@ -2,4 +2,18 @@
 
 ## Junior Full-Stack Developer
 
-![html logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
+const Lorenzo = {
+    pronouns: "he" | "him",
+    code: [ HTML, CSS, SCSS, Javascript, PHP],
+    askMeAbout: [ "web dev", "tech", "apple", "crypto", "NBA", "music", "coffee" ],
+    technologies: {
+        frontEnd: {
+            css: [ "Bootstrap" ]
+            Javascript: [ "VueJs" ]
+        },
+        backEnd: {
+            database: [ "MySQL" ]
+            php: [ "Laravel" ];
+        }        
+    }
+};
