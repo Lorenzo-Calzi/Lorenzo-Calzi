@@ -1,3 +1,3 @@
-### Hi there 👋 Welcome to my GitHub! I'm Lorenzo Calzi
+## Hi there 👋 Welcome to my GitHub! I'm Lorenzo Calzi
 
-## Junior Full-Stack Developer
+### Junior Full-Stack Developer
