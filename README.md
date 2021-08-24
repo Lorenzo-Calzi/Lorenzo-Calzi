@@ -45,6 +45,4 @@ const Lorenzo = {
 </a>
 
 
-![GitHub all releases](https://img.shields.io/github/downloads/Lorenzo-Calzi/Lorenzo-Calzi/total?color=%23ff0000&label=Instagram&logo=Instagram&logoColor=white&style=flat-square)
-
-
+![GitHub all releases](https://img.shields.io/github/downloads/Lorenzo-Calzi/Lorenzo-Calzi/total?color=%23ff0000&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge)
