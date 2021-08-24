@@ -40,6 +40,14 @@ const Lorenzo = {
 </a>
 
 
+<a href="https://www.linkedin.com/in/lorenzo-calzi-9a12101a0/" rel="nofollow">
+<img src="
+https://camo.githubusercontent.com/a209596106e0aae2f76971792aeb22b6e568c04b2c5237b5184a3e65efcab5f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25334368616e646c652533452d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"> 
+</a>
+
+
+
+
 
 
 
