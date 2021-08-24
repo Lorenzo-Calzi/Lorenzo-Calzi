@@ -6,7 +6,7 @@
 ```javascript
 const Lorenzo = {
     code: [ HTML, CSS, SCSS, Javascript, PHP],
-    askMeAbout: [ "web dev", "tech", "apple", "crypto", "NBA", "music", "coffee" ],
+    askMeAbout: [ "web dev", "tech", "videogames", "football", "music"],
     technologies: {
         frontEnd: {
             css: [ "Bootstrap" ]
