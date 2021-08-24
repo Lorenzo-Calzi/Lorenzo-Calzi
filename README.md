@@ -42,7 +42,9 @@ const Lorenzo = {
 </a>
 
 <a href="https://www.instagram.com/lorenzo_calzi/" rel="nofollow">
-    <img src="![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&max-width:100%)"
+   
 </a>
+
+ 
 
 
